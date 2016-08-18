@@ -1,0 +1,17 @@
+{
+    "name": "strong-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Gaslight"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/strong-bower.git"
+    },
+    "description": "Strong font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
